@@ -1,0 +1,85 @@
+.dashboard-container {
+  text-align: center;
+  margin: 50px auto;
+  padding: 20px;
+  max-width: 600px;
+  background: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+
+.dashboard-container h1 {
+  font-size: 2rem;
+  color: #333333;
+  margin-bottom: 10px;
+}
+
+.dashboard-container p {
+  font-size: 1rem;
+  color: #666666;
+  margin-bottom: 20px;
+}
+
+.dashboard-container button {
+  padding: 10px 20px;
+  font-size: 16px;
+  color: #ffffff;
+  background-color: #007bff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.dashboard-container button:hover {
+  background-color: #0056b3;
+}
+
+.dashboard-container button:focus {
+  outline: none;
+  box-shadow: 0 0 4px rgba(0, 123, 255, 0.5);
+}
+
+
+.dashboard-container {
+  text-align: center;
+  margin: 50px auto;
+  padding: 20px;
+  max-width: 600px;
+  background: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.dashboard-container h1 {
+  font-size: 2rem;
+  color: #333333;
+  margin-bottom: 10px;
+}
+
+.dashboard-container p {
+  font-size: 1rem;
+  color: #666666;
+  margin-bottom: 20px;
+}
+
+.list-group-item {
+  font-size: 18px;
+  padding: 15px;
+  margin-bottom: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+
+.list-group-item:hover {
+  background-color: #f1f1f1;
+  transform: scale(1.02);
+}
+
+.btn-danger {
+  padding: 10px 20px;
+  font-size: 16px;
+}
